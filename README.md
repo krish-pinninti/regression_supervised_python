@@ -1,0 +1,13 @@
+# regression_supervised_python
+
+other reads:
+Flood_Prediction_Using_Machine_Learning_Models_Literature_Review
+
+https://www.academia.edu/37658945/Flood_Prediction_Using_Machine_Learning_Models_Literature_Review
+
+Intrusion detection
+https://www.academia.edu/34039624/INTRUSION_DETECTION_USING_FEATURE_SELECTION_AND_MACHINE_LEARNING_ALGORITHM_WITH_MISUSE_DETECTION
+
+
+Regression Trees from Data Streams with Drift Detection
+https://www.researchgate.net/publication/221612862_Regression_Trees_from_Data_Streams_with_Drift_Detection
